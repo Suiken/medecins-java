@@ -14,6 +14,7 @@
         <title>Pays</title>
     </head>
     <body>
+        <center><img src="images/logo.jpg"></center>
         <h1>France</h1>
         <form method="POST" action="Control">
             <table>

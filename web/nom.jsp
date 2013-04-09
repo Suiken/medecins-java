@@ -14,6 +14,7 @@
         <title>M&eacute;decins par nom</title>
     </head>
     <body>
+        <center><img src="images/logo.jpg"></center>
         <h1>M&eacute;decins par nom</h1>
         <form action="Control" method="POST">
             <input type="text" name="choixNom"/>

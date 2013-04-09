@@ -14,6 +14,7 @@
         <title>M&eacute;decins par sp&eacute;cialit&eacute;</title>
     </head>
     <body>
+        <center><img src="images/logo.jpg"></center>
         <form action="Control" method="post">
             <table>
                 <c:forEach var="uneSpe" items="${lesSpe}">

@@ -14,6 +14,7 @@
         <title>M&eacute;decins par D&eacute;partement</title>
     </head>
     <body>
+        <center><img src="images/logo.jpg"></center>
         <h1>M&eacute;decins par D&eacute;partement: ${leDep}</h1>
         <table>
             <tr>

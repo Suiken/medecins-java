@@ -14,6 +14,7 @@
         <title>M&eacute;decins par sp&eacute;cialit&eacute;</title>
     </head>
     <body>
+        <center><img src="images/logo.jpg"></center>
         <h1>M&eacute;decins par sp&eacute;cialit&eacute; : ${laSpe}</h1>
         <table>
             <tr>

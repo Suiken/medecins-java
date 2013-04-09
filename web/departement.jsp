@@ -15,6 +15,7 @@
         <title>JSP Page</title>
     </head>
     <body>
+        <center><img src="images/logo.jpg"></center>
         <h1>M&eacute;decins par d&eacute;partement</h1>
         <form method="POST" action="Control">
             <table>
