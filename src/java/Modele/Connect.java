@@ -23,7 +23,7 @@ public class Connect {
             System.out.println("Pilote mal installé ..." + e);
         }
         try {
-            connection = DriverManager.getConnection("jdbc:mysql://localhost/cours_gsb", "root", "Cupidon1291");
+            connection = DriverManager.getConnection("jdbc:mysql://localhost/cours_gsb", "root", "");
         } catch (SQLException e) {
             System.out.println("Erreur SQL :" + e);
         }
